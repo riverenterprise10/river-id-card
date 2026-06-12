@@ -417,7 +417,7 @@
           id: 'user_' + Date.now(),
           identifier,
           name,
-          password: btoa(password),
+          password: password,
           role: 'user',
           createdAt: new Date().toISOString()
         };
