@@ -1,5 +1,4 @@
 // ===== db.js — Firebase Firestore + Storage abstraction =====
-
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
   apiKey: "AIzaSyCLVDsS6JP6q80e1UfDl_cig_pFW_2PVxo",
